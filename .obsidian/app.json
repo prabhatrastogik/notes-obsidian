@@ -1,0 +1,12 @@
+{
+  "readableLineLength": true,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "/dump/attachments",
+  "userIgnoreFilters": [
+    "dump/"
+  ],
+  "strictLineBreaks": false,
+  "showLineNumber": true
+}
