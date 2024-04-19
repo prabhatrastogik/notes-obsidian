@@ -30,8 +30,9 @@ brew install awscli
 brew install git
 brew install fzf   # Fuzzy file finder
 brew install fd    # File search tool (useful in vim extensions)
+brew install rg    # ripgrep for live_grep in nvim
 brew install bat   # "cat" replacement on steriods
-brew install diff-so-fancy # Dramatically improves `git diff` output
+brew install git-delta # Dramatically improves `git diff` output
 brew install tree  # Awesome file viewer on terminal [usage: tree]
 brew install tree-sitter
 
@@ -42,12 +43,14 @@ brew install neovim
 brew install --cask google-chrome
 brew install --cask visual-studio-code
 
-# Config for pyenv in .zshrc
+# Config 
+## for pyenv in .zshrc
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 # Add aliases in .zshrc
 alias cat=bat
-alias vim=neovim
+alias vim=nvim
 ```
 
+[[Setup CLI tools - fzf, delta]]
 [[Github Setup - Laptop]]
