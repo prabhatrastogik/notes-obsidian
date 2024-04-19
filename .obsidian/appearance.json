@@ -3,5 +3,7 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "translucency": false
 }

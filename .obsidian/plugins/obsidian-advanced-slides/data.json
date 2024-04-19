@@ -13,7 +13,7 @@
   "transitionSpeed": "normal",
   "controls": true,
   "progress": true,
-  "slideNumber": false,
+  "slideNumber": true,
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",

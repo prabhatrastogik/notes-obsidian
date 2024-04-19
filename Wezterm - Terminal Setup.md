@@ -5,11 +5,13 @@ tags:
 
 ## Installation
 
+To install WezTerm, use the following Homebrew command:
 ```zsh
 brew install --cask wezterm
 ```
+For detailed configuration options, refer to the [WezTerm Config Documentation](https://wezfurlong.org/wezterm/config/files.html).
 
-WezTerm Config: https://wezfurlong.org/wezterm/config/files.html
+## Configuration
 
 Create Profile at `~/.config/wezterm/wezterm.lua`
 ```lua

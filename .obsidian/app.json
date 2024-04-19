@@ -8,5 +8,7 @@
     "dump/"
   ],
   "strictLineBreaks": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "showRibbon": false
 }
