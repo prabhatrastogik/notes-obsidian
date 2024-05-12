@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d9bfff4c74782d30",
+        "id": "a4a70d4f403e0eec",
         "type": "tabs",
         "children": [
           {
-            "id": "0ca3cfc4f3bdbfe9",
+            "id": "43bb27207fbd0b14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setup CLI tools - fzf, delta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Setup CLI tools - fzf, delta.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Setup CLI tools - fzf, delta.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup CLI tools - fzf, delta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup CLI tools - fzf, delta.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,13 +193,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0ca3cfc4f3bdbfe9",
+  "active": "43bb27207fbd0b14",
   "lastOpenFiles": [
+    "Time Series Modelling Overview.md",
     "Consolidated/Setting Up a Mac.md",
-    "Setup CLI tools - fzf, delta.md",
-    "Oh-My-ZSH Setup (Terminal).md",
     "Consolidated/Neovim Consolidated Tutorial.md",
     "Github Setup - Laptop.md",
+    "Setup CLI tools - fzf, delta.md",
+    "Oh-My-ZSH Setup (Terminal).md",
     "Wezterm - Terminal Setup.md",
     "Homebrew - MacOS Package Manager.md",
     "Untitled.canvas",

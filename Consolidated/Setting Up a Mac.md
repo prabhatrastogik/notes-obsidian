@@ -48,7 +48,7 @@ brew install --cask visual-studio-code
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 # Add aliases in .zshrc
-alias cat=bat
+alias cat="bat -pp"
 alias vim=nvim
 ```
 

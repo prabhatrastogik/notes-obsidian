@@ -14,7 +14,7 @@ Create separate files to target separate private keys ; Build a common file to I
 
 ### Common File
 ```
-# ~/.gitignore
+# ~/.gitconfig
 [includeIf "gitdir:~/Novo/"]
 	path = ~/Novo/.gitconfig
 
