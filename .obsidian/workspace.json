@@ -11,8 +11,12 @@
             "id": "43bb27207fbd0b14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backlog Projects.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backlog Projects.md"
+              }
             }
           },
           {
@@ -117,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Backlog Projects.md"
+              }
             }
           }
         ]
@@ -133,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backlog Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backlog Projects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +205,7 @@
   },
   "active": "43bb27207fbd0b14",
   "lastOpenFiles": [
+    "Backlog Projects.md",
     "Time Series Modelling Overview.md",
     "Consolidated/Setting Up a Mac.md",
     "Consolidated/Neovim Consolidated Tutorial.md",
